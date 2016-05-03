@@ -1,0 +1,28 @@
+name: coffee is the new black
+favicon: null
+layout_spectrum: 0.18627848336473107
+typography_spectrum: 0.5158281549811363
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3465042165480554
+  lightness: 0.4752820946741849
+  saturation: 0.40746715059503913
+  rhythmicContrast: 0.5524288683664054
+purpose: []
